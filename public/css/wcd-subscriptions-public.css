@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--wcd-woo-sub-customer-listing a:before{
+	content: "\f079"
+}
